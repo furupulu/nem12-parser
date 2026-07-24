@@ -3,8 +3,8 @@ package usecase
 import (
 	"bufio"
 	"fmt"
-	"grindcode/floenergy/model"
 	"io"
+	"nem12-parser/model"
 	"strconv"
 	"strings"
 	"time"

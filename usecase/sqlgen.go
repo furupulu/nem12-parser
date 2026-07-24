@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"grindcode/floenergy/model"
+	"nem12-parser/model"
 )
 
 // WriteInserts writes standard multi-row INSERT statements for a MeterData block
