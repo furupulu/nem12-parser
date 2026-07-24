@@ -2,9 +2,9 @@ package main
 
 import (
 	"flag"
-	"grindcode/floenergy/model"
-	"grindcode/floenergy/usecase"
 	"log"
+	"nem12-parser/model"
+	"nem12-parser/usecase"
 	"os"
 )
 
